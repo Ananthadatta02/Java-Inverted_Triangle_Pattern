@@ -8,7 +8,7 @@ This repository contains a Java program that prints an **inverted right-angled t
 package number_patterns;
 public class InvertedRightAngledTriangle 
 {
-    public static void main(String[] args) 
+    public static void main(String[] args)
     {
         int a = 5;
         for(int i = 1; i <= 4; i++) 
