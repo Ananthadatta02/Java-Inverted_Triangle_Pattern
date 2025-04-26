@@ -1,6 +1,7 @@
 
 
 
+
 # Java Inverted Triangle Pattern
 
 ## Description
